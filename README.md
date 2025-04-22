@@ -6,7 +6,8 @@
 ```
 pip install -r requirements.txt
 ```
-3. Run the command
+3. Upload YOLO trained model - Mail to poojasg@karunya.edu.in to get the trained model
+4. Run the command
 ```
 python -m streamlit run app.py
 ```
